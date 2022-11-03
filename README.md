@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KirillSelyukov
-- 👀 I’m interested in blockchain, crypto
+- 👀 I’m interested in blockchain, crypto, fron end development with react js(main stack)
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me kselukov@gmail.com
